@@ -1,10 +1,14 @@
+---
+layout: post
+title: Development Environment
+---
 # Development Environment
 
 ESLint has a very lightweight development environment that makes updating code fast and easy. If you've checked out the code already, then the next step is to make sure you have all of the required utilities. Node.js and npm are the two things you'll need.
 
 ## Install Node.js
 
-Go to http://nodejs.org to download and install the latest stable version for your operating system. 
+Go to http://nodejs.org to download and install the latest stable version for your operating system.
 
 Most of the installers come with [npm](http://npmjs.org) already installed, but if for some reason it doesn't work on your system, you can install it manually using the instructions on the website.
 

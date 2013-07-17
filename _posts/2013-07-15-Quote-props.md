@@ -1,3 +1,7 @@
+---
+layout: post
+title: Quote props
+---
 # Quote props
 
 Similar to how quoting attribute values in HTML is a good idea, quoting property names in JavaScript is good practice.

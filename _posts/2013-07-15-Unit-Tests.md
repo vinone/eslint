@@ -1,3 +1,7 @@
+---
+layout: post
+title: Unit Tests
+---
 # Unit Tests
 
 Most parts of ESLint have unit tests associated with them. Unit tests are written using [Vows](http://vowsjs.org) and are required when making contributions to ESLint. You'll find all of the unit tests in the `tests` directory.

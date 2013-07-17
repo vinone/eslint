@@ -1,3 +1,7 @@
+---
+layout: post
+title: Architecture
+---
 # Architecture
 
 At a high level, there are a few key parts to ESLint:

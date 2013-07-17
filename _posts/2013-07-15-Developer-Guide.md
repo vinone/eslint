@@ -1,3 +1,7 @@
+---
+layout: post
+title: Developer Guide
+---
 # Developer Guide
 
 This guide is intended for those who wish to:
